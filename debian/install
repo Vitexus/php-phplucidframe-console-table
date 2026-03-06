@@ -1,2 +1,2 @@
-src/LucidFrame/Console/ usr/share/php/LucidFrame/Console/
+src/LucidFrame/Console/*.php usr/share/php/LucidFrame/Console/
 debian/autoload.php usr/share/php/LucidFrame/
