@@ -1,2 +1,2 @@
-src/ usr/share/php/
+src/LucidFrame/ usr/share/php/LucidFrame/
 debian/autoload.php usr/share/php/LucidFrame/
