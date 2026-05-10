@@ -1,24 +1,25 @@
 {
-    "name": "phplucidframe/console-table",
-    "description": "Console Table",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Sithu",
-            "email": "sithu@phplucidframe.com"
-        }
-    ],
-    "require":{
-        "php": ">=7.1",
-        "ext-mbstring": "*"
-    },
-    "require-dev":{
-        "phpunit/phpunit":"*"
-    },
-    "autoload": {
-        "psr-4": {
-            "LucidFrame\\": "src/LucidFrame/",
-            "LucidFrameTest\\": "tests/"
-        }
+  "name": "phplucidframe/console-table",
+  "description": "Console Table",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sithu",
+      "email": "sithu@phplucidframe.com"
     }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "ext-mbstring": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "LucidFrame\\": "src/LucidFrame/",
+      "LucidFrameTest\\": "tests/"
+    }
+  },
+  "type": "library"
 }
